@@ -3,7 +3,7 @@ Title: Dear my friends
 Year: 2016
 Genre: Drama
 Disease: Alzheimer
-ICD(질병관련코드):
+ICD: G30.1
 ---
 
 
